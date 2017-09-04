@@ -19,7 +19,7 @@
 
 [关于刻意练习的清单](zh-cn/blog/关于刻意练习的清单.md ":target=_blank")
 
-[Spring Boot 快速开始](zh-cn/guides/spring-boot.md ":target=_blank")
+<!-- [Spring Boot 快速开始](zh-cn/guides/spring-boot.md ":target=_blank") -->
 
 <!-- ### 联系
 
